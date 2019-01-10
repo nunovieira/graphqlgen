@@ -64,7 +64,7 @@
     "@types/rimraf": "2.0.2",
     "@types/yargs": "12.0.5",
     "benchmark": "2.1.4",
-    "flow-bin": "0.86.0",
+    "flow-bin": "0.90.0",
     "jest": "23.6.0",
     "ts-jest": "23.10.5",
     "ts-node": "7.0.1",
